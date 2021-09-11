@@ -1,0 +1,63 @@
+************************************
+ Thank you for purchasing our Quickad
+************************************
+
+FILES
+-----
+QUICKAD-CMS-8 .2     :  Quickad Classified Ads CMS - Version 8.2
+
+UPDATED AT
+-----
+QUICKAD-CMS-8.2      :  14-June-2019
+
+DOCUMENTATION (Latest Updated)
+-------------
+You can access the online documentation at
+http://documentation.bylancer.com/classified
+
+
+First Method - UPDATING THE QUICKAD
+---------------------
+Step 1:- Go to admin panel > update page.
+Step 2:- Upload there QUICKAD-CMS-8.2.zip file in uploader.
+Step 3:- After uploading completed you can see install button.
+Step 4:- Click on install button and wait for complete
+Step 5:- Done. 
+
+Second Method - UPDATING THE QUICKAD
+---------------------
+Step 1:- Upload QUICKAD-CMS-8.2.zip file in admin/uploads folder with ftp or cpanel.
+Step 2:- After uploading completed Go to admin panel > update page.
+Step 3:- You can see install button.
+Step 4:- Click on install button and wait for complete
+Step 5:- Done. 
+
+ANDROID APP AVAILABLE (API INCLUDED IN SCRIPT PURCHASE)
+-----------------------------------------------
+You can buy android app from this link
+https://codecanyon.net/item/quickad-classified-native-android-app/23956447
+
+CHAT FEATURES (Zechat + Wchat Both Required)
+-------------
+Wchat : Responsive, Inbox messaging , Chat history, Chat with previous user and more
+Zechat : Start on page chat on detail page chat now button . Auto open popup when new message comes and more.
+
+WCHAT PURCHASE LINK(Required for chat features)
+-----------------------------------------------
+You can buy Wchat script from this link
+https://codecanyon.net/item/wchat-fully-responsive-phpajax-chat/18047319
+
+ZECHAT PURCHASE LINK(Required for chat features)
+------------------------------------------------
+You can buy Zechat script from this link
+https://codecanyon.net/item/facebook-style-php-ajax-chat-zechat/16491266
+
+
+SUPPORT REQUESTS
+----------------
+https://codecanyon.net/item/quickad-classified-ads-php-script/19960675/support
+
+For your support requests, 
+please email us helpdesk.bylancer@gmail.com.
+Your support requests will be queued and can take up to 24-48 hours in
+working days before answered.
