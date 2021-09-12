@@ -1,5 +1,5 @@
 <?php
-//Loop for Premium Ads and (featured = 1 or urgent = 1 or highlight = 1)
+//
 
 $item = get_items("","active",true,1,10,"id",true);
 $item2 = get_items("","active",false,1,10,"id",true);
